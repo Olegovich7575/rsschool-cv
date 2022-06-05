@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello, world! I am Alex Zhavarankau. Junior Frontend Developer.
 ---
 # My contacts:
@@ -24,3 +25,6 @@ I want to try myself as a developer in the frontend, and I hope with your help I
 - Russian \- Proficiency
 - Belarussian \- Upper-Intermediate
 - English \- Intermediate
+=======
+
+>>>>>>> 9115b3501e3fbb1010608696df9cf25b30efb532
