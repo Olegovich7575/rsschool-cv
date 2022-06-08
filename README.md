@@ -1,2 +1,1 @@
-# rsschool-cv
-my first repository
+https://olegovich7575.github.io/rsschool-cv/
